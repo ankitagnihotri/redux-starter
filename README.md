@@ -1,1 +1,1 @@
-react redux starter application
+react redux starter application.
